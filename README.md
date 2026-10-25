@@ -2,7 +2,7 @@
 ## Overview
 An interactive Excel dashboard designed to monitor sales executive performance, compare sales results, and evaluate target achievement using Excel charts and VBA automation.
 ## Dashboard Preview
-![Sales Performance Dashboard](images/Dashboard-Preview.png)
+![Sales Performance Dashboard](Dashboard-preview.png)
 ## Key Features
 - City-based filtering for sales analysis
 - Four dashboard views controlled by checkboxes
